@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XR6Wwrgequx67FqG3fjFDJWC0caFupTs/viGc0XB9JliLndzxwPRmcNzLOotFyKNqWYgiSV9HFoZkp0nbOUDVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanz\\source\\repos\\CleanUI\\CleanUI\\CleanUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanz\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
